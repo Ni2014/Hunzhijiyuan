@@ -10,7 +10,7 @@
         ul,ol{list-style:none;}
         body{
             font-family: Titillium Web,PingFang SC,Microsoft YaHei,微软雅黑,STXihei,华文细黑,sans-serif,
-            background: #9cd7f5;
+            background: #ffffff;
         }
         button,input,select,textarea{font-size:100%;}table{border-collapse:collapse;border-spacing:0;}
         li{list-style-type:none;}
@@ -45,7 +45,7 @@
             .styleLeft{
                 width: 100%;
                 height: 128;
-                background: #9cd7f5;
+                background: #ffffff;
                 text-align: center;
                 box-sizing: border-box;
                 padding:15px 0;
@@ -55,7 +55,7 @@
                 padding: 40px 30px; 
                 box-sizing: border-box;
                 font-size: 20px;
-                background: #9cd7f5;
+                background: #ffffff;
             }
             .styleRight p {
                 line-height: 32px;
@@ -174,7 +174,7 @@
                 left:0;
                 top:0;
                 height: 100%;
-                background: #9cd7f5;
+                background: #ffffff;
                 padding-top:30px;
             }
             .styleRight{
@@ -183,7 +183,7 @@
                 padding: 70px 80px 70px 80px; 
                 box-sizing: border-box;
                 font-size: 20px;
-                background: #9cd7f5;
+                background: #ffffff;
             }
             .styleRight p {
                 line-height: 32px;
@@ -272,7 +272,7 @@
                 left:0;
                 top:0;
                 height: 100%;
-                background: #9cd7f5;
+                background: #ffffff;
                 padding-top:30px;
             }
             .styleRight{
@@ -281,7 +281,7 @@
                 padding: 70px 80px 70px 80px; 
                 box-sizing: border-box;
                 font-size: 20px;
-                background: #9cd7f5;
+                background: #ffffff;
             }
         }
     </style>
@@ -296,7 +296,7 @@
         <div id="shade" class="mask_layer"></div>
         <div class="styleLeft">
             <div class="logo">
-                <img src="https://bmob-cdn-26596.bmobpay.com/2019/10/26/505309a340eb06578005fc9a3a4f0b80.png" alt="">
+                <img src="https://bmob-cdn-26596.bmobpay.com/2019/10/31/41f56322405e2f6d80ba9085d89f26f4.jpg" alt="">
             </div>
             <p class="title_logo">魂之纪元</p>
             <div class="navigation" id="navigationId">
@@ -313,16 +313,20 @@
             </div>
             <h3 class="fontWeight">游戏特色</h3>
             <div class="box1">
-                <p>魂之纪元是一款宫斗恋爱与换装相结合的全新手游。玩家能够得到多种多样好玩的游戏玩法体验，剧情发展方向和结局子自由选择。</p>
+                <p>魂之纪元是一款日韩风冒险题材的角色扮演类游戏，只要简单体验几分钟，无限Vip特权立即送上。</p>
+                <p>创世神洛安斯拨开混沌，形成了世界。为了使世界有序运行，他创造了人类，将人类放在显赫的位置，让其生养众多，代创世神管理地上的万物，一切均按造创世神的规划向前发展，但随着人类越来越多，世间百态循环，人性的丑陋开始显现，他将那些犯有原生罪的生灵丢进不适合生存的幽暗的浑浊之地，久而久之成了魔族。魔族性格暴戾，不甘心居住于恶劣的环境，一直想要重回中央之地，于是不断挑起战争，人间灾难不断，战火连天，民不聊生。洛安斯从沉睡中醒了过来，当他看到人间的惨状，立即就意识到他强行干预人间世界的不妥，于是他耗尽剩余的神力创造了精灵族，目的就是希望通过精灵族调和终止战争。为了保险起见，在耗尽神力之后，他将精神力分化为九缕散落人间，这九缕精神力带有他的执念。九缕精神力就是九龙形态。</p>
                 <br>
-                <h3>古风古韵</h3>
-                <p>高精度的模型，人物建筑画风细腻唯美，还原最真实的宫廷盛景，让人身临其境，视听全方位地感受清宫生活，品位一番别开生面的宫廷生活之趣！</p>
+                <h3>独特的风格</h3>
+                <p>日韩+Q版的组合，有别与主流的写实仙/武侠、魔幻题材;</p>
                 <br>
-                <h3>清宫时尚</h3>
-                <p>三千华服，风格多样的华丽服饰任你选择，超多古风魅力服饰打造，各样创意无限的全新趣味玩法给你诸多的精彩。</p>
+                <h3>沉浸式体验剧情</h3>
+                <p>从全新的角度，体验全部剧情!除主线和支线剧情外，还有满足一定条件才能进入的隐藏剧情，在冒险中收获浪漫和感动。</p>
                 <br>
-                <h3>实力上位</h3>
-                <p>从低等的宫女开始你的后宫逆袭，在一次次的宫斗之中利用你的手段取胜。当你遇到尔虞我诈的算计时，就要使出手段来维护自己。</p>
+                <h3>自由职业组合</h3>
+                <p>丰富的转职设定，每个职业有两个完全不相同的职业方向，职业大类一共5种，均支持男女角色。总共可提供20种角色选择，可控制5个角色。从5个战士的极致阵容到标准的战法牧等数十种组合，感受“我一个人就是一支军队”！</p>
+                <br>
+                <h3>丰富的策略</h3>
+                <p>通过转职、装备、魂卡、技能、宠物等一系列系统上的策略性选择，培养出独特的角色例如血牛型刺客、输出型骑士，游戏过程更有乐趣，游戏决策更有意义。</p>
             </div>
             
             <h3 class="fontWeight">隐私条款</h3>
