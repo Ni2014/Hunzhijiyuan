@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>魂之纪元</title>
     <style>
-        /* 初始化。b271c29b79e60c6e23187d3e08d4b7264fe3e600 */
+        /* 初始化。b271c29b79e60c6e23187d3e08d4b7264fe3e600  https://developer.apple.com/certificationauthority/AppleWWDRCA.cer */
         body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,
         legend,button,input,textarea,th,td,section,p,span,font,div{margin:0;padding:0;}
         ul,ol{list-style:none;}
